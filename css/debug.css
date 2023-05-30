@@ -1,0 +1,18 @@
+.debug .container {
+  border: 1px solid green;
+}
+
+.debug .row {
+  border: 1px solid blueviolet;
+}
+
+.debug [class*="col-"],
+.debug .col {
+  padding-block: 20px;
+  background-color: #006cfa;
+  border: 1px solid #fff;
+}
+
+.debug div.inner-col {
+  background-color: rgb(122, 196, 11);
+}
